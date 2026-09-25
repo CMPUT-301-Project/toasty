@@ -1,5 +1,4 @@
 package com.example.toasty
 
-class Rectangle(x: Int, y: Int): Shape(x, y)  {
-
+class Rectangle( x: Int, y: Int): Shape(x, y)  {
 }
